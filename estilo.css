@@ -1,0 +1,9 @@
+body {background-color: rgb(243, 198, 216);}
+h1 {color: rgb(226, 0, 113);text-align: center;}
+p {font-size: large;text-align: justify;}
+ul {margin-trim: 3%;}
+li {margin-top: 3%;}
+img {border-radius: 5px;}
+table {border-color: rgb(184, 0, 101); background-color: rgb(255, 101, 176);border-style: dashed;}
+a {color: rgb(199, 6, 102); text-decoration: underline;}
+a:hover {color: purple; text-decoration: underline;}
